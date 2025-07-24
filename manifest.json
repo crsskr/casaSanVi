@@ -1,7 +1,7 @@
 
 {
-  "name": "Countdown PWA",
-  "short_name": "Countdown",
+  "name": "CasaSanvì",
+  "short_name": "CasaSanvì",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
